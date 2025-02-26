@@ -1,0 +1,15 @@
+
+[window]
+padding.x = 4
+padding.y = 4
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Dark"
+
+[font]
+normal.family = "Iosevka Nerd Font Mono"
+bold.family = "Iosevka Nerd Font Mono"
+italic.family = "Iosevka Nerd Font Mono"
+bold_italic.family = "Iosevka Nerd Font Mono"
+
+size = 11.0
